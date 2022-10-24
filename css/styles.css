@@ -439,4 +439,11 @@ img {
     font-size: 2rem;
     color: var(--primario);
     padding: 2rem 0;
+    margin-top: 12rem;
+}
+
+@media (min-width: 768px) {
+    .footer p {
+        margin-top: 0pt;
+    }
 }
